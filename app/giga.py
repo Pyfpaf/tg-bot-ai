@@ -1,5 +1,5 @@
-from langchain.schema import HumanMessage, SystemMessage
-from langchain.chat_models.gigachat import GigaChat
+from langchain_core.messages import HumanMessage
+from langchain_community.chat_models import GigaChat
 from config import GIGA_TOKEN
 
 
