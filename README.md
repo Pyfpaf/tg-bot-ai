@@ -4,7 +4,7 @@
 
 ## Описание решения
 
-Предполагаемы стек:
+Предполагаемый стек:
 1. Aiogram
 2. OpenAI, Gigachain-community
 3. PostgreSQL
